@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+/* 
+
+h1{
+  width: 420px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: auto;
+  
+  
+
+  text-align: center;
+
+} */
+
+
+/* h1{margin: 40vh;
+  margin-left: 70vh;
+width: 30%;
+border: 3px solid green;
+padding: 10px;
+background-color: rgb(198, 241, 7);
+border-radius: 10px;
+}
+
+body{
+  background-color:rgb(218, 138, 138);
+} */
+
+
+/* challenge 4=cards style in help of "prop"  */
+
+
+/*1rem=10px  */
+
+
+/* THIS IS PROJECT1*/
+
+
+/* 
+  div.polaroid {
+    width: 20%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: auto;
+    margin-top: 20px;
+    float: left;
+  
+   
+    
+    
+  }
+  img{
+    width:100%;
+    height:20rem;
+    border-radius: 5px;
+  }
+  
+  button{
+    margin-top: 10px;
+    background-color: rgb(219, 231, 229);
+    border-radius: 5px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 15px 30px;
+  }
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+    background-color: cornsilk;
+  }
+
+  h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-transform: capitalize;
+    background-color: darkseagreen;
+  }
+
+  button:hover {
+    color: red;
+    background-color: rgb(27, 203, 235);
+    cursor: pointer;
+  }
+  a.pointer {cursor: pointer;} */
+
+
+/*HOOKS in REACT USING "ARRAY DESTRUCHRING" AND "EVENTS"*/
+
+
+/* project=> number count */
+
+
+/* button{
+    margin-top: 10px;
+    background-color: rgb(219, 231, 229);
+    border-radius: 5px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 115px 15px;
+  } */
+
+
+/* .container{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-transform: capitalize;
+    background-color: darkseagreen;
+  } */
+
+body {
+    text-align: center;
+    position: relative;
+   /* min-width: 1024px;
+  min-height: 768px;
+  height: 100%;  */
+}
+
+form {
+  
+     text-align: center;
+   margin: 2vh;
+   display:inline-block ;
+}
+
+/* .navbar-brand{
+  border:2px solid rgb(241, 184, 184);
+  border-radius: 12px;
+  background-color: rgb(75, 62, 62);
+  margin-left: 20px;
+} */
