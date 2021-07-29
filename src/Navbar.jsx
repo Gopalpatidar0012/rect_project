@@ -3,7 +3,7 @@ import "./NavbarCss.css";
 import AddMilk from "./AddMilk";
 import Milkhistry from "./Milkhistry";
 import "./index.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Route, Switch,Link } from "react-router-dom";
 import Addcustomer from "./Addcustomer";
 
