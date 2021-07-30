@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dairymanagment/static/css/main.c667a60a.chunk.css",
+    "main.js": "/dairymanagment/static/js/main.4be0eadc.chunk.js",
+    "main.js.map": "/dairymanagment/static/js/main.4be0eadc.chunk.js.map",
+    "runtime-main.js": "/dairymanagment/static/js/runtime-main.48e929c1.js",
+    "runtime-main.js.map": "/dairymanagment/static/js/runtime-main.48e929c1.js.map",
+    "static/css/2.d45d6843.chunk.css": "/dairymanagment/static/css/2.d45d6843.chunk.css",
+    "static/js/2.7c2164d2.chunk.js": "/dairymanagment/static/js/2.7c2164d2.chunk.js",
+    "static/js/2.7c2164d2.chunk.js.map": "/dairymanagment/static/js/2.7c2164d2.chunk.js.map",
+    "index.html": "/dairymanagment/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/dairymanagment/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.c667a60a.chunk.css.map": "/dairymanagment/static/css/main.c667a60a.chunk.css.map",
+    "static/js/2.7c2164d2.chunk.js.LICENSE.txt": "/dairymanagment/static/js/2.7c2164d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48e929c1.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.7c2164d2.chunk.js",
+    "static/css/main.c667a60a.chunk.css",
+    "static/js/main.4be0eadc.chunk.js"
+  ]
+}
