@@ -17,7 +17,7 @@ const Navbar=()=>{
         {/* <h1 className="navbar-brand" >Milk-Store</h1> */}
     <ul>
       <li>
-        <Link to="/">AddCustomer</Link>
+        <Link to="/">AddCustomer gopal patidar</Link>
       </li>
       <li>
       <Link to="/addmilk">AddMilk</Link>
